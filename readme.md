@@ -12,6 +12,7 @@ pip install -r requirements.txt
 ```
 python main.py --path <video path> --pose <pose type>
 ```
+pose type must be one of subdirectory in fitness_poses_images_in
 
 ## Instruction
 
