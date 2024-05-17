@@ -1049,7 +1049,7 @@ with tqdm.tqdm(total=video_n_frames, position=0, leave=True) as pbar:
     out_video.write(cv2.cvtColor(np.array(output_frame), cv2.COLOR_RGB2BGR))
 
     # Show intermediate frames of the video to track progress.
-    # if frame_idx % 50 == 0:
+    # if frame_idx % 1 == 0:
     #   show_image(output_frame)
 
     frame_idx += 1

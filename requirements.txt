@@ -1,37 +1,37 @@
-absl-py               2.1.0
-attrs                 23.2.0
-certifi               2024.2.2
-cffi                  1.16.0
-charset-normalizer    3.3.2
-colorama              0.4.6
-contourpy             1.1.1
-cycler                0.12.1
-flatbuffers           24.3.25
-fonttools             4.51.0
-idna                  3.7
-importlib_metadata    7.1.0
-importlib_resources   6.4.0
-jax                   0.4.13
-kiwisolver            1.4.5
-matplotlib            3.7.5
-mediapipe             0.10.11
-ml-dtypes             0.2.0
-numpy                 1.24.4
-opencv-contrib-python 4.9.0.80
-opencv-python         4.9.0.80
-opt-einsum            3.3.0
-packaging             24.0
-pillow                10.3.0
-pip                   24.0
-protobuf              3.20.3
-pycparser             2.22
-pyparsing             3.1.2
-python-dateutil       2.9.0.post0
-requests              2.31.0
-scipy                 1.10.1
-setuptools            41.2.0
-six                   1.16.0
-sounddevice           0.4.6
-tqdm                  4.66.4
-urllib3               2.2.1
-zipp                  3.18.2
+absl-py==2.1.0
+attrs==23.2.0
+certifi==2024.2.2
+cffi==1.16.0
+charset-normalizer==3.3.2
+colorama==0.4.6
+contourpy==1.1.1
+cycler==0.12.1
+flatbuffers==24.3.25
+fonttools==4.51.0
+idna==3.7
+importlib_metadata==7.1.0
+importlib_resources==6.4.0
+jax==0.4.13
+kiwisolver==1.4.5
+matplotlib==3.7.5
+mediapipe==0.10.11
+ml-dtypes==0.2.0
+numpy==1.24.4
+opencv-contrib-python==4.9.0.80
+opencv-python==4.9.0.80
+opt-einsum==3.3.0
+packaging==24.0
+pillow==10.3.0
+pip==24.0
+protobuf==3.20.3
+pycparser==2.22
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+requests==2.31.0
+scipy==1.10.1
+setuptools==41.2.0
+six==1.16.0
+sounddevice==0.4.6
+tqdm==4.66.4
+urllib3==2.2.1
+zipp==3.18.2
